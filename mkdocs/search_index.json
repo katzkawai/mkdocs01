@@ -36,9 +36,14 @@
             "title": "\u30de\u30fc\u30af\u30c0\u30a6\u30f3\u3092\u5229\u7528"
         }, 
         {
-            "location": "/sample/", 
-            "text": "\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\n\n\n\n\n\n    \n\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002", 
-            "title": "Sample"
+            "location": "/sample01/", 
+            "text": "\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b801\n\n\n\n\n\n    \n\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002", 
+            "title": "Sample01"
+        }, 
+        {
+            "location": "/sample02/", 
+            "text": "\u30b5\u30f3\u30d7\u30eb\u305d\u306e\uff12\n\n\n\n\n\n    \n\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u305d\u306e2", 
+            "title": "Sample02"
         }
     ]
 }

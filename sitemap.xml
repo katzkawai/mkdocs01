@@ -19,7 +19,15 @@
 
     
     <url>
-     <loc>None/sample/</loc>
+     <loc>None/sample01/</loc>
+     <lastmod>2016-06-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/sample02/</loc>
      <lastmod>2016-06-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
