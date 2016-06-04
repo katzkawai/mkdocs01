@@ -22,8 +22,18 @@
         }, 
         {
             "location": "/about/", 
-            "text": "", 
+            "text": "\u3053\u306e\u30da\u30fc\u30b8\u306b\u3064\u3044\u3066\n\n\n\u30de\u30fc\u30af\u30c0\u30a6\u30f3\u3092\u5229\u7528\n\n\nHTML\u3092\u76f4\u63a5\u66f8\u304b\u306a\u304f\u3066\u3088\u3044\u306e\u3067\u3001\u3068\u3066\u3082\u4fbf\u5229\u3002", 
             "title": "About"
+        }, 
+        {
+            "location": "/about/#_1", 
+            "text": "", 
+            "title": "\u3053\u306e\u30da\u30fc\u30b8\u306b\u3064\u3044\u3066"
+        }, 
+        {
+            "location": "/about/#_2", 
+            "text": "HTML\u3092\u76f4\u63a5\u66f8\u304b\u306a\u304f\u3066\u3088\u3044\u306e\u3067\u3001\u3068\u3066\u3082\u4fbf\u5229\u3002", 
+            "title": "\u30de\u30fc\u30af\u30c0\u30a6\u30f3\u3092\u5229\u7528"
         }
     ]
 }
